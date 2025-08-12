@@ -1,4 +1,5 @@
 print("olá")
 print(1+2)
-imput("qual seu nome?")
+nome = imput("qual seu nome?")
+print(f"olá {nome}")
 
